@@ -1,4 +1,4 @@
-### Hi there 👋
+### Pytprotocol An infrastructure for invest-and-earn algorithmic finance 👋
 
 <!--
 **Pytprotocol/Pytprotocol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
